@@ -29,11 +29,6 @@ installer_packages=(
     "brightnessctl"
     "networkmanager"
     "wireplumber"
-    "swaylock"
-    "yt-dlp"
-    "mpv"
-    "grim"
-    "slurp"
 )
 
 installer_yay=(
