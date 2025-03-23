@@ -1,6 +1,6 @@
 {
     "label" : "lock",
-    "action" : "hyprlock",
+    "action" : "swaylock --clock --indicator --screenshots --effect-blur 2x2 --effect-vignette 1.5:1.5",
     "text" : "Lock",
     "keybind" : "l"
 }
