@@ -29,6 +29,8 @@ installer_packages=(
     "brightnessctl"
     "networkmanager"
     "wireplumber"
+    "swaylock"
+    "swaylock-effects"
 )
 
 installer_yay=(
