@@ -13,7 +13,6 @@ installer_packages=(
     "qt5-wayland"
     "qt6-wayland"
     "hyprpaper"
-    "firefox"
     "ttf-font-awesome"
     "vim"
     "fastfetch"
@@ -29,11 +28,11 @@ installer_packages=(
     "brightnessctl"
     "networkmanager"
     "wireplumber"
-    "swaylock"
-    "swaylock-effects"
 )
 
 installer_yay=(
+    "swaylock"
+    "swaylock-effects"
 )
 
 # PLEASE NOTE: Add more packages at the end of the following command
