@@ -1,14 +1,14 @@
-# ----------------------------------------------------- 
-# Install packages 
-# ----------------------------------------------------- 
+# -----------------------------------------------------
+# Install packages
+# -----------------------------------------------------
 
 installer_packages=(
     "hyprland"
     "waybar"
     "rofi-wayland"
     "alacritty"
-    "dunst"
     "thunar"
+    "dunst"
     "xdg-desktop-portal-hyprland"
     "qt5-wayland"
     "qt6-wayland"
@@ -16,8 +16,8 @@ installer_packages=(
     "ttf-font-awesome"
     "vim"
     "fastfetch"
-    "ttf-fira-sans" 
-    "ttf-fira-code" 
+    "ttf-fira-sans"
+    "ttf-fira-code"
     "ttf-firacode-nerd"
     "fuse2"
     "gtk4"
@@ -28,6 +28,7 @@ installer_packages=(
     "brightnessctl"
     "networkmanager"
     "wireplumber"
+    "bluetui"
 )
 
 installer_yay=(
