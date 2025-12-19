@@ -7,7 +7,7 @@ installer_packages=(
     "waybar"
     "rofi-wayland"
     "alacritty"
-    "thunar"
+    "nautilus"
     "dunst"
     "xdg-desktop-portal-hyprland"
     "qt5-wayland"
@@ -26,7 +26,7 @@ installer_packages=(
     "python-gobject"
     "xdotool"
     "brightnessctl"
-    "networkmanager"
+    "impala"
     "wireplumber"
     "bluetui"
 )
